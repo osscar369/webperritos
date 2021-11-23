@@ -7,4 +7,7 @@
 | edad | pequeño | mediano | grande |
 |:----:| :----:  | :-----: | :----: |
 
+-[x] lista de tareas
+-[] de 8 a 16 semanas
+
 
